@@ -1,5 +1,10 @@
 Asea Software License
 
+Version: Public 1, 15th October 2020
+Everyone is permitted to copy and distribute verbatim copies of this license 
+document, and changing it is allowed as long as the name is changed.
+
+
 Copyright (c) [year], [fullname] <e-mail (optional)>
 All rights reserved.
 
