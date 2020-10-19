@@ -1,6 +1,6 @@
 # Asea Software License
 
-[Asea Software License](license/LICENSE.txt) ```asea-license``` is intended to be permissive but reasonably protective free and open source software license. This document was written on October 10th, 2020. Everyone is permitted to copy and distribute verbatim copies of this document.
+[Asea Software License](license/LICENSE.txt) ```asea-license``` is intended to be permissive but reasonably protective free and open source software license. This document was written on October 15th, 2020. Everyone is permitted to copy and distribute verbatim copies of this license document, and changing it is allowed as long as the name is changed.
 
 You are free to obtain software released under Asea Software License in source code form and/or in binary form if you wish and you are free to use this software as you wish if you acknowledge the license and its conditions. You are free to redistribute this software according to conditions of the license, with notable exception in case when you distribute changed source code or altered original software in binary form. In this case you must plainly mark altered redistributions of this software as such and preferably document your changes for users. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
@@ -21,6 +21,11 @@ Main purpose of Asea Software License is to protect software and its authors, co
 
 ```
 Asea Software License
+
+Version: Public 1, 15th October 2020
+Everyone is permitted to copy and distribute verbatim copies of this license 
+document, and changing it is allowed as long as the name is changed.
+
 
 Copyright (c) [year], [fullname] <e-mail (optional)>
 All rights reserved.
